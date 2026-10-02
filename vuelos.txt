@@ -1,0 +1,9 @@
+UIO,GYE,55.0,LATAM
+UIO,PTY,210.0,Copa
+UIO,BOG,140.0,Avianca
+GYE,PTY,185.0,Copa
+PTY,MIA,175.0,American
+BOG,MIA,210.0,Avianca
+BOG,MAD,420.0,Iberia
+MIA,MAD,360.0,AirEuropa
+GYE,UIO,60.0,Avianca
